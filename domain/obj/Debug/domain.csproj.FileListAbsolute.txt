@@ -1,0 +1,6 @@
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\domain\bin\Debug\domain.dll
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\domain\bin\Debug\domain.pdb
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\domain\obj\Debug\domain.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\domain\obj\Debug\domain.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\domain\obj\Debug\domain.dll
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\domain\obj\Debug\domain.pdb
