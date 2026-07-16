@@ -26,22 +26,26 @@ namespace domain
         //Creamos una nueva tarea
         public Tarea(string titulo, string descripcion)
         {
-            Titulo = ValidarTitulo(titulo);
-            Descripcion = descripcion;
+            Titulo = ValidarContenido(titulo);
+            Descripcion = ValidarContenido(descripcion);
             FechaCreacion = DateTime.Now;
             Completada = false;
         }
 
         public void CambiarTitulo(string nuevoTitulo)
         {
-            Titulo = ValidarTitulo(nuevoTitulo);
+            Titulo = ValidarContenido(nuevoTitulo);
         }
-        private string ValidarTitulo(string titulo)
+        public void CambiarDescripcion(string nuevaDescripcion)
         {
-            if (string.IsNullOrWhiteSpace(titulo))
-                throw new Exception("Error en el título de la actividad");
+            Descripcion = ValidarContenido(nuevaDescripcion);
+        }
+        private string ValidarContenido(string value)
+        {
+            if (string.IsNullOrWhiteSpace(value))
+                throw new Exception("Error no puede estar vacío el contenido");
 
-            return titulo;
+            return value;
         }
         public void Completar()
         {
