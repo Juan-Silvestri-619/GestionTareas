@@ -105,16 +105,34 @@ namespace dal.Implementations.Sql_Server
                 using (SqlCommand cmd = conn.CreateCommand())
                 {
                     cmd.CommandText = "UPDATE tarea" +
-                        " SET titulo = @titulo, descripcion = @descripcion, completada = @completada" +
+                        " SET titulo = @titulo, descripcion = @descripcion" +
                         " WHERE id = @id";
 
                     cmd.Parameters.AddWithValue("@id", tarea.Id);
                     cmd.Parameters.AddWithValue("@titulo", tarea.Titulo);
                     cmd.Parameters.AddWithValue("@descripcion", tarea.Descripcion);
-                    cmd.Parameters.AddWithValue("@completada", tarea.Completada);
 
                     cmd.ExecuteNonQuery();
                         
+                }
+            }
+        }
+        public void ModificarEstadoTarea(Tarea tarea)
+        {
+            using (SqlConnection conn = new SqlConnection(_connectionStrings))
+            {
+                conn.Open();
+
+                using (SqlCommand cmd = conn.CreateCommand())
+                {
+                    cmd.CommandText = "UPDATE tarea" +
+                        " SET completada = @completada" +
+                        " WHERE id = @id";
+
+                    cmd.Parameters.AddWithValue("@id", tarea.Id);
+                    cmd.Parameters.AddWithValue("@completada", tarea.Completada);
+              
+                    cmd.ExecuteNonQuery();
                 }
             }
         }
