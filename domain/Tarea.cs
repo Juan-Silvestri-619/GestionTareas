@@ -47,9 +47,9 @@ namespace domain
 
             return value;
         }
-        public void Completar()
+        public void Completar(bool estado)
         {
-            Completada = true;
+            Completada = estado;
         }
     }
 }
