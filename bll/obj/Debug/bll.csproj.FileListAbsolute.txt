@@ -1,0 +1,11 @@
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\bin\Debug\bll.dll
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\bin\Debug\bll.pdb
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\bin\Debug\dal.dll
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\bin\Debug\domain.dll
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\bin\Debug\dal.pdb
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\bin\Debug\domain.pdb
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\obj\Debug\bll.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\obj\Debug\bll.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\obj\Debug\bll.csproj.Up2Date
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\obj\Debug\bll.dll
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\bll\obj\Debug\bll.pdb
