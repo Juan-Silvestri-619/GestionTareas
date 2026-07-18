@@ -1,0 +1,14 @@
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\bin\Debug\ui.exe.config
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\bin\Debug\ui.exe
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\bin\Debug\ui.pdb
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\bin\Debug\bll.dll
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\bin\Debug\domain.dll
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\bin\Debug\dal.dll
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\bin\Debug\bll.pdb
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\bin\Debug\domain.pdb
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\bin\Debug\dal.pdb
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\obj\Debug\ui.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\obj\Debug\ui.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\obj\Debug\ui.csproj.Up2Date
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\obj\Debug\ui.exe
+C:\Users\Juan\Desktop\General\Programación\C#\2.Practicas\gestion_tareas\ui\obj\Debug\ui.pdb
